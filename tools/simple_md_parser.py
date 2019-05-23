@@ -5,16 +5,23 @@
 import re
 
 # Anything that isn't a square closing bracket
-name_regex = "[^]]+"
-# http:// or https:// followed by anything but a closing paren
-link_regex = "[^)]+"
+NAME_REGEX = "[^]]+"
+LINK_REGEX = "[^)]+"
 
-markup_regex = '\[({0})]\(\s*({1})\s*\)'.format(name_regex, link_regex)
+MARKUP_REGEX = '\[({0})]\(\s*({1})\s*\)'.format(NAME_REGEX, LINK_REGEX)
 
-with open('../hacker-laws/README.md') as f:
-    for line in (l.strip() for l in f if l.strip()):
-        line = line.lstrip('# *->')
-        line_text = line
-        for match in re.findall(markup_regex, line_text):
-            line = line.replace('[{0}]({1})'.format(*match), '[{0}]'.format(*match))
-        print(line)
+
+def main():
+    with open('../hacker-laws/README.md') as f:
+        for line in (l.strip() for l in f if l.strip()):
+            line = line.lstrip('# *->')
+            line_text = line
+
+            # Remove links.
+            for match in re.findall(MARKUP_REGEX, line_text):
+                line = line.replace('[{0}]({1})'.format(*match), '[{0}]'.format(*match))
+            print(line)
+
+
+if __name__ == '__main__':
+    main()
