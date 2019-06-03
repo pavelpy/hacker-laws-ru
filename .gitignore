@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# credentials files
+gspread.json
+
+# config file
+config.py
