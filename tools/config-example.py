@@ -1,0 +1,1 @@
+PATH_TO_HACKER_LAWS_README_MD = '~/hacker-laws/README.md'
