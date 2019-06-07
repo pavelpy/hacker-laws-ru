@@ -1,0 +1,32 @@
+{
+  "files": [
+    "tools/footer.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Sabrjkee",
+      "name": "Андрей",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42741840?s=460&v=4",
+      "profile": "https://github.com/Sabrjkee",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Karnet011",
+      "name": "Евгений",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41126690?s=460&v=4",
+      "profile": "https://github.com/Karnet011",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hacker-laws-ru",
+  "projectOwner": "pavelpy",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
