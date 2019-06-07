@@ -1,4 +1,5 @@
 # 💻📖 hacker-laws-ru
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#они-внесли-свой-вклад)
 
 Законы, теории, принципы и паттерны, которые будут полезны разработчикам (5d5f3a5748a3600dfc8ff2c3f7f821adf736b9c5).
 
@@ -462,3 +463,10 @@ DRY является аббревиатурой и означает _Не пов
 Привет! Если вы оказались здесь, вы нажали ссылку на тему, которую я еще не написал, извините за это - работа в процессе!
 
 Не стесняйтесь [Сообщить об ошибках] запросить более подробную информацию, или [Открыть Pull Request], чтобы представить предложенное вами определение темы.. 
+## Они внесли свой вклад
+Большое спасибо этим людям:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://github.com/Sabrjkee}"><img src="https://avatars0.githubusercontent.com/u/42741840?s=460&v=4" width="100px;" alt="Андрей"/><br/><sub><b>Андрей</b></sub></a><br/><a href="#content-Sabrjkee" title="Content">🖋</a></td><td align="center"><a href="https://github.com/Karnet011}"><img src="https://avatars0.githubusercontent.com/u/41126690?s=460&v=4" width="100px;" alt="Евгений"/><br/><sub><b>Евгений</b></sub></a><br/><a href="#content-Karnet011" title="Content">🖋</a></td></tr></table>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
