@@ -3,9 +3,10 @@
 
 Законы, теории, принципы и паттерны, которые будут полезны разработчикам (5d5f3a5748a3600dfc8ff2c3f7f821adf736b9c5).
 
-🇨🇳 [中文 / Chinese Version](https://github.com/nusr/hacker-laws-zh) - thanks [Steve Xu](https://github.com/nusr)!
-
-🇺🇸 [Original English Version](https://github.com/dwmkerr/hacker-laws) - thanks [Dave Kerr](https://github.com/dwmkerr)!
+- 🇨🇳 [中文 / Chinese Version](https://github.com/nusr/hacker-laws-zh) - thanks [Steve Xu](https://github.com/nusr)!
+- 🇰🇷 [한국어 / Korean Version](https://github.com/codeanddonuts/hacker-laws-kr) - thanks [Doughnut](https://github.com/codeanddonuts)!
+- 🇹🇷 [Türkçe / Turkish Version](https://github.com/umutphp/hacker-laws-tr) - thanks [Umut Işık](https://github.com/umutphp)
+- 🇺🇸 [Original English Version](https://github.com/dwmkerr/hacker-laws) - thanks [Dave Kerr](https://github.com/dwmkerr)!
 
 <!-- vim-markdown-toc GFM -->
 
