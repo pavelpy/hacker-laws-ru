@@ -10,11 +10,11 @@ cffi==1.12.3
     # via cryptography
 chardet==3.0.4
     # via requests
-cryptography==3.2
+cryptography==3.3.2
     # via pyopenssl
 gspread==3.1.0
     # via -r requirements.in
-httplib2==0.18.0
+httplib2==0.19.0
     # via oauth2client
 idna==2.8
     # via requests
@@ -31,6 +31,8 @@ pycparser==2.19
     # via cffi
 pyopenssl==19.0.0
     # via -r requirements.in
+pyparsing==2.4.7
+    # via httplib2
 requests==2.22.0
     # via gspread
 rsa==4.0
